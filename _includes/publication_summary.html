@@ -2,7 +2,8 @@
 
 <article class="__publication_summary">
     <div class="__publication_thumbnail_container">
-        <img src="{{ pub.thumbnail }}" alt="{{ pub.title | escape }}" class="post-item-image">
+        <a href="{{ pub.url }}"><img src="{{ pub.thumbnail }}" alt="{{ pub.title | escape }}" class="post-item-image">
+        </a>
     </div>
     <div class="__publication_meta_container">
         <h3 >
@@ -28,6 +29,13 @@
             🏛️ {{ pub.venue }}
         </p>
         {% endif %}
+
+        {% if pub.arxiv %}
+        <p>
+            🔗 <a href="{{ pub.arxiv }}">{{ pub.arxiv }}</a>
+        </p>
+        {% endif %}
+
 
         {% if pub.extras %}
         <p>
