@@ -2,7 +2,7 @@
 layout: publication
 title: "Can deep learning be applied to model-based multi-object tracking?"
 date: 2022-02-16 09:42:42 +07:00
-venue: arXiv
+venue: preprint @ arXiv
 authors:
   - juliano:
     name: Juliano Pinto

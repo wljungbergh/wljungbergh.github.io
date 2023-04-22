@@ -2,7 +2,7 @@
 title: "ZOD: A large multimodal autonomous drive dataset"
 layout: publication
 date: 2023-03-09 09:45:47 +07:00
-venue: arXiv
+venue: preprint @ arXiv
 selected: 1
 authors:
   - mina:
@@ -33,6 +33,9 @@ authors:
     org: Zenseact, Chalmers University of Technolgy
     scholar: SeRMUJwAAAAJ
 thumbnail: /assets/img/publications/zod.png
+website: https://zod.zenseact.com
+code: https://github.com/zenseact/zod
+arxiv:
 ---
 
 # Abstract
