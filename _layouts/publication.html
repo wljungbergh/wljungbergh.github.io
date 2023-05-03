@@ -54,8 +54,31 @@ layout: compress
                         <span hidden itemprop="mainEntityOfPage">{{ page.excerpt }}</span>
                     </div>
 
-                </header>
+                    <div class="__pub-icon-container">
+                        {% if page.arxiv %}
+                        <a href="{{ page.arxiv }}" target="_blank" rel="noopener"
+                            class="__pub-icon-button">
+                            <i class="fa-solid fa-file-pdf fa-2x"></i>
+                        </a>
+                        {% endif %}
+                        {% if page.code %}
+                        <a href="{{ page.code }}" target="_blank" rel="noopener" class="__pub-icon-button">
+                            <i class="fa-brands fa-github fa-2x"></i>
+                        </a>
+                        {% endif %}
+                        {% if page.website %}
+                        <a href="{{ page.website }}" target="_blank" rel="noopener" class="__pub-icon-button">
+                            <i class="fa-solid fa-desktop fa-2x"></i>
+                        </a>
+                        {% endif %}
+                        {% if page.youtube %}
+                        <a href="{{ page.youtube }}" target="_blank" rel="noopener" class="__pub-icon-button">
+                            <i class="fa-brands fa-youtube fa-2x"></i>
+                        </a>
 
+                    </div>
+                    <hr>
+                </header>
                 <div class="page-content" itemprop="articleBody">
                     {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=1
                     h_max=4 %}
