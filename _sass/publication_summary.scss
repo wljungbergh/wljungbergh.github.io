@@ -14,6 +14,10 @@
         img {
             border-radius: 5px;
         }
+
+        @include media-query($on-mobile) {
+            display: none;
+          }
     }
 
     .__publication_meta_container {
