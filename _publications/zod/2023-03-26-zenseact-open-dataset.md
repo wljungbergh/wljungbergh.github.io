@@ -1,6 +1,7 @@
 ---
-title: "ZOD: A large multimodal autonomous drive dataset"
+title: "Zenseact Open Dataset: A large-scale and diverse multimodal dataset for autonomous driving"
 layout: publication
+permalink: /publications/zod/
 date: 2023-03-09 09:45:47 +07:00
 venue: preprint @ arXiv
 selected: 1
@@ -8,6 +9,7 @@ authors:
   - mina:
     name: Mina Alibeigi
     org: Zenseact
+    scholar: gJA_rJYAAAAJ
   - william:
     name: William Ljungbergh
     org: Zenseact, Linköping University
@@ -15,7 +17,7 @@ authors:
   - adam t:
     name: Adam Tonderski
     org: Zenseact, Lund University
-    scholar:
+    scholar: 2R5ZLp0AAAAJ
   - georg:
     name: Georg Hess
     org: Zenseact, Chalmers University of Technology
@@ -23,11 +25,19 @@ authors:
   - adam l:
     name: Adam Lilja
     org: Zenseact, Chalmers University of Technology
-    scholar:
+    scholar: zYn4o0AAAAAJ
   - carl:
     name: Carl Lindström
     org: Zenseact, Chalmers University of Technology
-    scholar:
+    scholar: ufjSqs0AAAAJ
+  - junsheng:
+    name: Junsheng Fu
+    org: Zenseact
+    scholar: z3lud1UAAAAJ
+  - daria:
+    name: Daria Motorniuk
+    org: Zenseact
+    scholar: RT0Mw8wAAAAJ
   - christoffer:
     name: Christoffer Petersson
     org: Zenseact, Chalmers University of Technolgy
@@ -35,7 +45,7 @@ authors:
 thumbnail: /assets/img/publications/zod.png
 website: https://zod.zenseact.com
 code: https://github.com/zenseact/zod
-arxiv:
+arxiv: https://arxiv.org/abs/2305.02008
 ---
 
 # Abstract
