@@ -38,6 +38,9 @@ authors:
     name: Daria Motorniuk
     org: Zenseact
     scholar: RT0Mw8wAAAAJ
+  - jenny:
+    name: Jenny Widahl
+    org: Zenseact
   - christoffer:
     name: Christoffer Petersson
     org: Zenseact, Chalmers University of Technolgy
