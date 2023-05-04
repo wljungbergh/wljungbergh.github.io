@@ -45,7 +45,7 @@ authors:
     name: Christoffer Petersson
     org: Zenseact, Chalmers University of Technolgy
     scholar: SeRMUJwAAAAJ
-thumbnail: /assets/img/publications/zod.png
+thumbnail: /assets/img/publications/zod_thumbnail.jpg
 website: https://zod.zenseact.com
 code: https://github.com/zenseact/zod
 arxiv: https://arxiv.org/abs/2305.02008
