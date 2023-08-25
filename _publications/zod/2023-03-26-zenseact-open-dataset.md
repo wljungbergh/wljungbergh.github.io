@@ -3,7 +3,7 @@ title: "Zenseact Open Dataset: A large-scale and diverse multimodal dataset for 
 layout: publication
 permalink: /publications/zod/
 date: 2023-03-09 09:45:47 +07:00
-venue: preprint @ arXiv
+venue: International Conference on Computer Vision (ICCV), 2023
 selected: 1
 authors:
   - mina:
