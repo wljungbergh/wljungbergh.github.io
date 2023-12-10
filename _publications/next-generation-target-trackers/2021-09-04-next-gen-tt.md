@@ -4,7 +4,6 @@ title: "Next generation multitarget trackers: Random finite set methods vs trans
 date: 2021-11-01 09:42:42 +07:00
 venue: IEEE 24th International Conference on Information Fusion (FUSION), 2021
 extras: best student paper
-selected: 3
 authors:
   - juliano:
     name: Juliano Pinto

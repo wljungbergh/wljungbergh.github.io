@@ -4,7 +4,7 @@ permalink: /publications/raw-or-cooked/
 title: Raw or Cooked? Object detection on RAW images
 venue: Scandinavian Conference on Image Analysis (SCIA), 2023
 extras: oral presentation
-selected: 2
+selected: 3
 authors:
   - william:
     name: William Ljungbergh
