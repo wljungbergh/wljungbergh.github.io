@@ -33,8 +33,8 @@ authors:
     name: Christoffer Petersson
     org: Zenseact, Chalmers University of Technolgy
     scholar: SeRMUJwAAAAJs
-#arxiv: https://arxiv.org/abs/2202.07909
+arxiv: https://arxiv.org/abs/2404.07762
 code: https://github.com/wljungbergh/NeuroNCAP
-thumbnail: https://research.zenseact.com/publications/neuro-ncap/assets/animated_overview.gif
+thumbnail: https://atonderski.github.io/assets/img/publication_preview/neuro-ncap.gif
 redirect_to: "https://research.zenseact.com/publications/neuro-ncap/"
 ---
