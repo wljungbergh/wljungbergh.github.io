@@ -2,7 +2,7 @@
 layout: redirect
 title: "NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving"
 date: 2024-04-03 08:00:00 +07:00
-venue: preprint @ arXiv
+venue: European Conference on Computer Vision (ECCV), 2024
 selected: 1
 authors:
   - william:
