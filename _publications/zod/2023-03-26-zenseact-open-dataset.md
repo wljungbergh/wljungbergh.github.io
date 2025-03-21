@@ -4,7 +4,6 @@ layout: publication
 permalink: /publications/zod/
 date: 2023-03-09 09:45:47 +07:00
 venue: International Conference on Computer Vision (ICCV), 2023
-selected: 3
 authors:
   - mina:
     name: Mina Alibeigi
