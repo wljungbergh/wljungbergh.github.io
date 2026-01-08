@@ -2,12 +2,12 @@
 title: Colophon
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm a Ph.D. student researching perception for autonomous driving. This blog is to document my progress and allow for easy sharing.
+excerpt: I recently finished my Ph.D. in perception for autonomous driving and am now building something new.
 comments: false
 education:
   - title: Ph.D. Perception for Autonomous Driving
     location: Linköping University, Linköping, Sweden | Zenseact, Gothenburg, Sweden
-    date: 2022 &mdash; Present
+    date: 2022 &mdash; 2024
   - title: M.Sc. Systems, Control and Mechatronics
     location: Chalmers University of Technology, Gothenburg, Sweden
     date: 2019 &mdash; 2021
@@ -15,6 +15,9 @@ education:
     location: Chalmers University of Technology, Gothenburg, Sweden
     date: 2015 &mdash; 2018
 experiences:
+  - title: Building something new
+    date: 2024 &mdash; Present
+    description: Currently heads-down building the next thing.
   - title: Deep Learning Engineer
     location: Zenseact, Gothenburg, Sweden
     date: 2021 &mdash; 2022
@@ -29,7 +32,7 @@ experiences:
     description: After my bachelor's degree I moved to the united states and did an internship at Volvo Trucks North America on behalf of XDIN.
 ---
 
-Hello peeps, I'm PhD student researching perception for autonomous driving. This site is to document my progress and allow for easy sharing. Please find a full list of my publications [here](/publications/).
+Hello peeps, I recently wrapped up a PhD in perception for autonomous driving and am now building something new. Please find a full list of my publications [here](/publications/).
 
 # Education
 ---

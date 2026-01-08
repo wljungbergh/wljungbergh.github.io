@@ -1,7 +1,7 @@
 # Site settings
 title: William Ljungbergh # site title
 description: >- # site description
-  Does this change stuff.
+  Finished a PhD in perception for autonomous driving and now building something new.
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,15 +12,15 @@ mode: dark # default theme "dark" | "light"
 author:
   name: William Ljungbergh # author name
   bio: >- # tell to the world
-   @ <a href="https://zenseact.com">Zenseact</a> & <a href="https://liu.se">Linköping University</a> <br> <br>
-   Hey 👋 I am an industrial PhD student focusing on solving problems related to perception in autonomous driving.
-   Shoot me an email if you have questions related to my research or want to discuss potential collaborations 💥
+   Finished a PhD on perception for autonomous driving and now building something new. <br> <br>
+   Formerly @ <a href="https://zenseact.com">Zenseact</a> & <a href="https://liu.se">Linköping University</a>. <br> <br>
+   Shoot me an email if you want to collaborate or jam on ideas 💥
    <br> <br>
    Stay connected.
   github: wljungbergh # github username
   linkedin: william-ljungbergh
   scholar: RXEPFo0AAAAJ
-  email: william@ljungbergh.com # email adress
+  email: william@recohere.ai # email adress
   avatar: /assets/img/profile.png
 
 # URL settings
